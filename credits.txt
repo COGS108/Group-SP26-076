@@ -1,0 +1,2 @@
+Data Checkpoint Citations:
+Claude Sonnet 4.6: Deduplication algorithm conceptualization and implementation with the prompt: "How do I deal with this dataset having aggregate stats in 2TM but the other dataset has the aggregate stats as the team the player ended the season on"
