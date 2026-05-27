@@ -1,2 +1,5 @@
 Data Checkpoint Citations:
 Claude Sonnet 4.6: Deduplication algorithm conceptualization and implementation with the prompt: "How do I deal with this dataset having aggregate stats in 2TM but the other dataset has the aggregate stats as the team the player ended the season on"
+
+EDACheckPoint citations: 
+Claude Sonnet 4.6: Making the time series plots clearer, prompt " How can i make the xticks bigger and clearer, How can i organize multiple plots together, (given previous plots that i generated) how can i make it clearer and more organized" 
