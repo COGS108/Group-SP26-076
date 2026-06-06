@@ -5,4 +5,6 @@ EDACheckPoint citations:
 Claude Sonnet 4.6: Making the time series plots clearer, prompt " How can i make the xticks bigger and clearer, How can i organize multiple plots together, (given previous plots that i generated) how can i make it clearer and more organized" 
 
 Final Project citations:
-Claude Sonnet 4.6: Loading EDA figures from EDA Checkpoint to pngs with the prompt: "How do I load images in a JupyterNotebo and display them in a separate notebook
+Claude Sonnet 4.6: Loading EDA figures from EDA Checkpoint to pngs with the prompt: "How do I save images in a JupyterNotebook and display them in a separate notebook"
+Claude Sonnet 4.6: Graphing the coefficients from the Multiple Linear Regression with the prompt: "How do I graph the coefficients obtained from this MLR"
+Claude Sonnet 4.6: Debugging the Multiple Linear Regression to get rid of % and / from the column names with the prompt: "Why is this formula not working with smf.OLS"
